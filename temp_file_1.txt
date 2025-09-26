@@ -1,2 +1,0 @@
-Random change #1: Adding a temporary file for commit purposes
-Update: Modified content for second commit
